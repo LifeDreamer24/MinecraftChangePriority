@@ -1,0 +1,1 @@
+PowerShell -WindowStyle Hidden -NoProfile -ExecutionPolicy Bypass -File "scripts_noedit/abovenormal.ps1"

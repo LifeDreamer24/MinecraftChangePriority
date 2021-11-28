@@ -1,0 +1,2 @@
+Theses registration entries will take care of setting up Minecraft's priority almost each time you launch it.
+In case it does not work, i included some batch files in the "IfNotWorking" folder so you can set the priority without having to restart Minecraft.

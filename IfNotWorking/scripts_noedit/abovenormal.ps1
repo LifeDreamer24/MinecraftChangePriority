@@ -1,0 +1,1 @@
+Get-WmiObject Win32_process -filter 'name = "javaw.exe"' | foreach-object { $_.SetPriority(32768) }
